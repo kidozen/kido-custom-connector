@@ -1,0 +1,23 @@
+{
+  "name": "kido-custom-connector",
+  "version": "1.0.0",
+  "description": "A sample for KidoZen's Enterprise APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kidozen/kido-custom-connector.git"
+  },
+  "keywords": [
+    "kidozen",
+    "connector"
+  ],
+  "author": "development@kidozen.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kidozen/kido-custom-connector/issues"
+  },
+  "homepage": "https://github.com/kidozen/kido-custom-connector"
+}
