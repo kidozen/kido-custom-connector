@@ -10,7 +10,7 @@ module.exports = function (config) {
         throw new Error("configuration.maxSize must be a positive number.");
     }
     // instance variables initialization
-    var maxSize = config.maxSize || Number.MAX_VALUE;
+    var maxSize = config.maxSize;
     var stack = [];
 
     // KidoZen will be able to invoke only public methods, so we define the methods
